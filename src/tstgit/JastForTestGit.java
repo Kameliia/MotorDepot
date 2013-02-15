@@ -1,7 +1,7 @@
 package tstgit;
 /**
  * 
- * @author Natusik
+ * @author TestUserik
  *
  */
 public class JastForTestGit {
